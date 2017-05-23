@@ -1,0 +1,121 @@
+---
+title: "Kit-data-processing"
+author: "Ranjit kumar"
+date: "December 28, 2016"
+output: html_document
+---
+
+### Background
+Compare two RNA-seq libraries of the same UHRR + 1% synthetic ERCC control input (10 ng),  prepared with kits from different vendors. I recommend Salmon for transcript abundance estimation.
+Potentially interesting questions:
+How sensitive are these two libraries prep methods?
+Are high abundance transcripts missing from one or the other library?
+What questions arise from your observations?
+What other experiments would you design to answer questions?
+
+Figures that speak to these questions would be helpful(e.g. correlations, TPM vs. # of transcripts with at least that TPM (cumulative histogram)).
+
+The cluster has several files which inldues 4 fastq files (paried-end for both kits), the reference file and its index (for salmon).
+```
+langhorst@ip-192-168-0-253:~/kit_comparison$ ls -l
+total 20683076
+-rw-rw-r-- 1 langhorst langhorst 4383832100 Nov 12 11:58 10ng_kit1.1.fastq
+-rw-rw-r-- 1 langhorst langhorst 4383832100 Nov 12 11:58 10ng_kit1.2.fastq
+-rw-rw-r-- 1 langhorst langhorst 4383839514 Nov 12 11:57 10ng_kit2.1.fastq
+-rw-rw-r-- 1 langhorst langhorst 4383839514 Nov 12 11:58 10ng_kit2.2.fastq
+-rw-rw-r-- 1 langhorst langhorst  298595430 Nov 12 11:49 gencode_v25+ercc.fasta
+drwxrwxr-x 2 langhorst langhorst        156 Nov 12 13:58 gencode_v25+ercc.salmon_index
+-rw-r--r-- 1 langhorst langhorst 3345517109 Nov 12 12:44 kit_comparison.tgz
+drwxrwxr-x 9 langhorst langhorst        128 Dec 28 20:08 Ranjit_analysis
+```
+
+### Software installation and system setting (temporary)
+Installed FASTQC, Parallel and a software QWRAP which has some utilities to compare FASTQC output. I created a folder Ranjit_analysis for storing all analysis files.
+```
+mkdir Ranjit_analysis
+
+git clone https://github.com/QWRAP/QWRAPv3.git
+export PATH="/home/langhorst/kit_comparison/Ranjit_analysis/QWRAPv3:$PATH"  
+
+#FASTQC installation
+conda install fastqc  
+
+#Parallel installation for multithreading
+conda install parallel  
+
+# personal system config changes (temporary)
+alias lsa='ls -lah --color'
+alias wcl='wc -l'  
+
+# check system config: seems it had 4 cpu and 16gb RAM
+less /proc/meminfo
+less /proc/cpuinfo
+nproc --all
+```
+
+### Check QC
+Its good idea to check reads quality before proceeding further, so running all fastq files with FASTQC.
+```
+FASTQ='/home/langhorst/kit_comparison/'
+THREAD=4
+parallel -j $THREAD --progress --verbose --joblog qc.log 'fastqc --nogroup {} -o FASTQC' ::: ${FASTQ}/*.fastq
+```
+Overall the QC looks good so skipping data filtering for this exercise. However few observations can be further explored  
+
+* The last base (76th) usually show drop in quality, so it can be trimmed if it increases alignment percentage.
+* The first few bases (around 10) shows GC content bais, they can also be trimmed to check if it increases alignemnt percentage.
+* Very low percentage of ribosomal RNA detected. Shouldn't be a problem though.
+
+### Running salmon for quantification
+```
+INDEX="/home/langhorst/kit_comparison/gencode_v25+ercc.salmon_index/"
+mkdir SALMON
+# run salmon program in series
+salmon quant -i $INDEX -l A -1 $FASTQ/10ng_kit1.1.fastq -2 $FASTQ/10ng_kit1.2.fastq -p $THREAD -o SALMON/kit1.out
+salmon quant -i $INDEX -l A -1 $FASTQ/10ng_kit2.1.fastq -2 $FASTQ/10ng_kit2.2.fastq -p $THREAD -o SALMON/kit2.out
+```
+**Note: In absence of knowledge of library type, I put the libtype in automatic discovery mode. It predicts library to be ISR. If that is not how the library protocol is, I would investigate further and probably providing the correct library type while running salmon.**
+
+The alignment percentage reported by salmon is 67% for kit1 and 73% for kit2. This suggest further data filtering parameters can be explored to check if that increases alignment percentage. It also suggest kit2 may be better as it is producing more reads which are being aligned.
+
+Salmon produces quant.sf file which contains transcript quantification. 
+```
+langhorst@ip-192-168-0-253:~/kit_comparison/Ranjit_analysis$ ls SALMON/*/
+SALMON/kit1.out/:
+aux_info  cmd_info.json  lib_format_counts.json  libParams  logs  quant.sf
+
+SALMON/kit2.out/:
+aux_info  cmd_info.json  lib_format_counts.json  libParams  logs  quant.sf
+```
+
+### Results
+I created folder kit-compare and copied both quant file in it and explored them further using R.
+```
+mkdir kit_compare
+cp SALMON/kit1.out/quant.sf kit-compare/kit1.quant.sf
+cp SALMON/kit2.out/quant.sf kit-compare/kit2.quant.sf
+```
+
+The script used above are also present in script file "Ranjit_analysis.sh"
+```
+#!/bin/bash
+FASTQ='/home/langhorst/kit_comparison/'
+THREAD=4
+INDEX="/home/langhorst/kit_comparison/gencode_v25+ercc.salmon_index/"
+
+# Check FASTQC
+function do_fastqc {
+        mkdir FASTQC
+        parallel -j $THREAD --progress --verbose --joblog qc.log 'fastqc --nogroup {} -o FASTQC' ::: ${FASTQ}/*.fastq
+}
+
+function run_salmon {
+        mkdir SALMON
+        # run salmon program in series
+        salmon quant -i $INDEX -l A -1 $FASTQ/10ng_kit1.1.fastq -2 $FASTQ/10ng_kit1.2.fastq -p $THREAD -o SALMON/kit1.out
+        salmon quant -i $INDEX -l A -1 $FASTQ/10ng_kit2.1.fastq -2 $FASTQ/10ng_kit2.2.fastq -p $THREAD -o SALMON/kit2.out
+}
+
+do_fastqc
+run_salmon
+```

@@ -1,0 +1,4 @@
+10ng_kit1.1.fastq	20000000	76	52	
+10ng_kit1.2.fastq	20000000	76	53	
+10ng_kit2.1.fastq	20000000	76	50	
+10ng_kit2.2.fastq	20000000	76	51	

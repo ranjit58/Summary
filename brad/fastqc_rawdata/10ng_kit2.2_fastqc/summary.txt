@@ -1,0 +1,12 @@
+PASS	Basic Statistics	10ng_kit2.2.fastq
+PASS	Per base sequence quality	10ng_kit2.2.fastq
+PASS	Per tile sequence quality	10ng_kit2.2.fastq
+PASS	Per sequence quality scores	10ng_kit2.2.fastq
+WARN	Per base sequence content	10ng_kit2.2.fastq
+PASS	Per sequence GC content	10ng_kit2.2.fastq
+PASS	Per base N content	10ng_kit2.2.fastq
+PASS	Sequence Length Distribution	10ng_kit2.2.fastq
+WARN	Sequence Duplication Levels	10ng_kit2.2.fastq
+WARN	Overrepresented sequences	10ng_kit2.2.fastq
+PASS	Adapter Content	10ng_kit2.2.fastq
+FAIL	Kmer Content	10ng_kit2.2.fastq
