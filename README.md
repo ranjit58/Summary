@@ -9,9 +9,9 @@ Most of the code is hosted on github account [ranjit58](https://github.com/ranji
  - **Metagenomics Forensic application** - Here we built a classification model to predict whether two microbiome samples belong to same individual. The microbiome (metagenomics) profile of two samples were compared to generate several new features ( representing similarity/dissimilarity). Plot the similarity distribution charts between classes. Later used machine learning model (Logistic regression) to build classifier. Labelled data for learning patterns is created from [Human Microbiome Project](http://hmpdacc.org/).
 <br>Using **R, ggplot2, CARET, Amazon EC2**
 > - Feature generation - [mgSNP pipeline](https://github.com/ranjit58/mgSNP)
-> - R code for feature processing and visualization - [snpdis2.R](https://github.com/ranjit58/Summary/blob/master/forensic/snpdis2.R)[Training](https://github.com/ranjit58/Summary/blob/master/forensic/xHMP93_21.png) [Test](https://github.com/ranjit58/Summary/blob/master/forensic/xTRANS93_21.png) [Performance]((https://github.com/ranjit58/Summary/blob/master/forensic/accuracy.png)
+> - R code for feature processing and visualization - [snpdis2.R](https://github.com/ranjit58/Summary/blob/master/forensic/snpdis2.R)
 > - R package CARET used for machine learning. After trying various ML models we found logistic regression works best for our set of features. [Final Model](https://github.com/ranjit58/Summary/blob/master/forensic/Classifier/transplant_model_final.R)
-
+> - [Training](https://github.com/ranjit58/Summary/blob/master/forensic/xHMP93_21.png) | [Test](https://github.com/ranjit58/Summary/blob/master/forensic/xTRANS93_21.png) | [Performance](https://github.com/ranjit58/Summary/blob/master/forensic/Classifier/accuracy.png)
 </P>
 
 - **Microbiome analysis pipeline** :  Pipeline for large scale microbiome data analysis on HPC cluster. [QWRAPv3](https://github.com/ranjit58/QWRAPv3)
