@@ -14,6 +14,16 @@ Most of the code is hosted on github account [ranjit58](https://github.com/ranji
 > - [Training](https://github.com/ranjit58/Summary/blob/master/forensic/xHMP93_21.png) | [Test](https://github.com/ranjit58/Summary/blob/master/forensic/xTRANS93_21.png) | [Performance](https://github.com/ranjit58/Summary/blob/master/forensic/Classifier/accuracy.png)
 </P>
 
+- **Compare Kits** : A visual comparison and of two methods (RNAseq) measuring same biological samples
+<br>Using **R, Salmon and ggplot2**
+> - Data preparation - https://rawgit.com/ranjit58/Summary/master/brad/data_processing.html
+> - Data analysis and visualization - https://rawgit.com/ranjit58/Summary/master/brad/kit_analysis.html
+
+
+-  SNP variation analysis and visualisation - From RYGB paper
+ https://rawgit.com/ranjit58/Summary/master/RYGB/RYGB-MGSNP2.html
+<br>Using **R and ggplot2**
+
 - **Microbiome analysis pipeline** :  Pipeline for large scale microbiome data analysis on HPC cluster. [QWRAPv3](https://github.com/ranjit58/QWRAPv3)
 <br>Using **Bash, R**
 
@@ -22,15 +32,6 @@ Most of the code is hosted on github account [ranjit58](https://github.com/ranji
 
 - **Article ranking system** - This project is still in early stages of understanding features and mapping different data sets. Large scale XML data processing workflow. [STDOC](https://github.com/ranjit58/STDOC)
  <br>Using **Python, XML libraries, Solr**
-
-- **Compare Kits** : A visual comparison and of two methods (RNAseq) measuring same biological samples 
-<br>Using **R, Salmon and ggplot2**
-> - Data preparation - https://rawgit.com/ranjit58/Summary/master/brad/data_processing.html 
-> - Data analysis and visualization - https://rawgit.com/ranjit58/Summary/master/brad/kit_analysis.html
-
--  SNP variation analysis and visualisation - From RYGB paper
- https://rawgit.com/ranjit58/Summary/master/RYGB/RYGB-MGSNP2.html
-<br>Using **R and ggplot2**
 
 - Tools developed by students under my supervision
 > - [Mkraken](https://github.com/ranjit58/Mkraken) : Parsing and merging kraken output
