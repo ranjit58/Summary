@@ -1,0 +1,469 @@
+Acidaminococcus sp. D21	99.74	1
+Acidaminococcus sp. D21	99.43	1
+Acidaminococcus sp. D21	99.06	1
+Akkermansia muciniphila	100.00	1
+Akkermansia muciniphila	29.67	0
+Akkermansia muciniphila	28.95	0
+Akkermansia muciniphila	16.99	0
+Akkermansia muciniphila	16.33	0
+Akkermansia muciniphila	15.95	0
+Alistipes onderdonkii	100.00	1
+Alistipes onderdonkii	99.97	1
+Alistipes onderdonkii	99.97	1
+Alistipes onderdonkii	99.96	1
+Alistipes onderdonkii	99.90	1
+Alistipes onderdonkii	99.86	1
+Alistipes onderdonkii	84.15	0
+Alistipes onderdonkii	84.12	0
+Alistipes onderdonkii	82.64	0
+Alistipes onderdonkii	82.50	0
+Alistipes onderdonkii	67.50	0
+Alistipes onderdonkii	67.49	0
+Alistipes onderdonkii	65.94	0
+Alistipes onderdonkii	65.73	0
+Alistipes onderdonkii	65.67	0
+Alistipes onderdonkii	65.47	0
+Alistipes onderdonkii	65.42	0
+Alistipes onderdonkii	65.40	0
+Alistipes onderdonkii	46.93	0
+Alistipes onderdonkii	46.74	0
+Alistipes onderdonkii	38.34	0
+Alistipes onderdonkii	35.40	0
+Alistipes onderdonkii	34.57	0
+Alistipes onderdonkii	34.27	0
+Alistipes onderdonkii	7.41	0
+Alistipes onderdonkii	6.38	0
+Alistipes onderdonkii	6.36	0
+Alistipes onderdonkii	6.32	0
+Alistipes onderdonkii	6.25	0
+Alistipes onderdonkii	5.73	0
+Alistipes onderdonkii	5.60	0
+Alistipes onderdonkii	4.48	0
+Alistipes onderdonkii	4.47	0
+Alistipes onderdonkii	4.29	0
+Alistipes onderdonkii	4.25	0
+Alistipes onderdonkii	4.14	0
+Alistipes onderdonkii	4.01	0
+Alistipes onderdonkii	3.84	0
+Alistipes onderdonkii	3.72	0
+Alistipes onderdonkii	3.60	0
+Alistipes onderdonkii	3.50	0
+Alistipes onderdonkii	3.42	0
+Alistipes onderdonkii	3.31	0
+Alistipes onderdonkii	3.25	0
+Alistipes onderdonkii	3.17	0
+Alistipes onderdonkii	3.16	0
+Alistipes onderdonkii	3.06	0
+Alistipes onderdonkii	3.05	0
+Alistipes onderdonkii	2.94	0
+Alistipes onderdonkii	2.90	0
+Alistipes onderdonkii	2.83	0
+Alistipes onderdonkii	2.79	0
+Alistipes onderdonkii	2.71	0
+Alistipes onderdonkii	2.46	0
+Alistipes onderdonkii	2.24	0
+Alistipes putredinis	99.85	1
+Alistipes putredinis	99.56	1
+Alistipes putredinis	98.61	1
+Alistipes putredinis	42.43	0
+Alistipes putredinis	24.79	0
+Alistipes putredinis	24.65	0
+Alistipes putredinis	24.46	0
+Alistipes putredinis	24.32	0
+Alistipes putredinis	17.88	0
+Alistipes putredinis	17.77	0
+Bacteroides cellulosilyticus	100.00	1
+Bacteroides cellulosilyticus	99.94	1
+Bacteroides cellulosilyticus	1.05	0
+Bacteroides cellulosilyticus	0.55	0
+Bacteroides cellulosilyticus	0.46	0
+Bacteroides cellulosilyticus	0.23	0
+Bacteroides coprocola	99.90	1
+Bacteroides eggerthii	99.87	1
+Bacteroides massiliensis	99.97	1
+Bacteroides massiliensis	99.89	1
+Bacteroides massiliensis	99.88	1
+Bacteroides massiliensis	99.81	1
+Bacteroides massiliensis	88.29	0
+Bacteroides massiliensis	88.16	0
+Bacteroides massiliensis	87.75	0
+Bacteroides massiliensis	85.75	0
+Bacteroides massiliensis	85.55	0
+Bacteroides massiliensis	85.24	0
+Bacteroides massiliensis	84.14	0
+Bacteroides massiliensis	5.79	0
+Bacteroides massiliensis	5.24	0
+Bacteroides massiliensis	5.02	0
+Bacteroides massiliensis	4.88	0
+Bacteroides massiliensis	4.73	0
+Bacteroides massiliensis	4.70	0
+Bacteroides massiliensis	4.69	0
+Bacteroides massiliensis	4.50	0
+Bacteroides massiliensis	4.44	0
+Bacteroides massiliensis	4.16	0
+Bacteroides ovatus	99.85	1
+Bacteroides ovatus	99.78	1
+Bacteroides ovatus	98.57	1
+Bacteroides ovatus	98.53	1
+Bacteroides ovatus	98.42	1
+Bacteroides ovatus	96.83	1
+Bacteroides ovatus	90.98	2
+Bacteroides ovatus	83.34	0
+Bacteroides ovatus	83.05	0
+Bacteroides ovatus	73.19	0
+Bacteroides ovatus	72.92	2
+Bacteroides ovatus	67.87	0
+Bacteroides ovatus	60.26	0
+Bacteroides ovatus	59.34	0
+Bacteroides ovatus	58.30	0
+Bacteroides ovatus	57.49	0
+Bacteroides ovatus	57.10	0
+Bacteroides ovatus	38.57	0
+Bacteroides ovatus	37.46	0
+Bacteroides ovatus	31.94	0
+Bacteroides ovatus	29.59	0
+Bacteroides ovatus	29.38	0
+Bacteroides ovatus	28.33	0
+Bacteroides ovatus	28.23	0
+Bacteroides ovatus	28.13	0
+Bacteroides ovatus	24.94	0
+Bacteroides ovatus	23.20	0
+Bacteroides ovatus	23.05	0
+Bacteroides ovatus	22.92	0
+Bacteroides ovatus	22.75	0
+Bacteroides ovatus	21.07	0
+Bacteroides ovatus	20.24	0
+Bacteroides ovatus	17.64	0
+Bacteroides ovatus	17.44	0
+Bacteroides ovatus	17.11	0
+Bacteroides ovatus	16.98	0
+Bacteroides ovatus	16.58	0
+Bacteroides ovatus	15.59	0
+Bacteroides ovatus	15.46	0
+Bacteroides ovatus	15.12	0
+Bacteroides ovatus	15.07	0
+Bacteroides ovatus	15.05	0
+Bacteroides ovatus	15.02	0
+Bacteroides ovatus	15.01	0
+Bacteroides ovatus	15.00	0
+Bacteroides ovatus	14.74	0
+Bacteroides ovatus	14.73	0
+Bacteroides ovatus	11.52	0
+Bacteroides ovatus	11.35	0
+Bacteroides ovatus	10.88	0
+Bacteroides ovatus	10.88	0
+Bacteroides ovatus	9.27	0
+Bacteroides ovatus	9.19	0
+Bacteroides ovatus	6.94	0
+Bacteroides ovatus	6.89	0
+Bacteroides sp. 2 1 16	99.98	1
+Bacteroides sp. 2 1 16	99.87	1
+Bacteroides sp. 2 1 16	99.86	1
+Bacteroides sp. 2 1 16	34.92	0
+Bacteroides sp. 2 1 16	20.95	0
+Bacteroides sp. 2 1 16	17.81	0
+Bacteroides sp. 2 1 16	15.46	0
+Bacteroides sp. 2 1 16	11.82	0
+Bacteroides sp. 2 1 16	9.51	0
+Bacteroides sp. 2 1 16	7.62	0
+Bacteroides stercoris	100.00	1
+Bacteroides stercoris	99.95	1
+Bacteroides stercoris	99.93	1
+Bacteroides stercoris	99.83	1
+Bacteroides stercoris	13.52	0
+Bacteroides stercoris	12.47	0
+Bacteroides stercoris	12.23	0
+Bacteroides stercoris	11.89	0
+Bacteroides stercoris	11.58	0
+Bacteroides stercoris	10.19	0
+Bacteroides stercoris	9.80	0
+Bacteroides stercoris	8.30	0
+Bacteroides stercoris	5.97	0
+Bacteroides stercoris	5.80	0
+Bacteroides stercoris	4.37	0
+Bacteroides stercoris	4.13	0
+Bacteroides stercoris	3.38	0
+Bacteroides stercoris	3.34	0
+Bacteroides stercoris	2.90	0
+Bacteroides stercoris	2.82	0
+Bacteroides stercoris	2.29	0
+Bacteroides stercoris	2.20	0
+Bacteroides stercoris	2.01	0
+Bacteroides stercoris	1.98	0
+Bacteroides stercoris	1.88	0
+Bacteroides stercoris	1.85	0
+Bacteroides stercoris	1.85	0
+Bacteroides stercoris	1.84	0
+Bacteroides stercoris	1.80	0
+Bacteroides stercoris	1.73	0
+Bacteroides stercoris	1.67	0
+Bacteroides stercoris	1.66	0
+Bacteroides stercoris	1.44	0
+Bacteroides stercoris	1.41	0
+Bacteroides stercoris	1.32	0
+Bacteroides stercoris	1.27	0
+Bacteroides uniformis	99.97	1
+Bacteroides uniformis	99.97	1
+Bacteroides uniformis	99.97	1
+Bacteroides uniformis	99.78	1
+Bacteroides uniformis	99.73	1
+Bacteroides uniformis	66.24	0
+Bacteroides uniformis	64.88	0
+Bacteroides uniformis	60.22	0
+Bacteroides uniformis	58.33	0
+Bacteroides uniformis	45.00	0
+Bacteroides uniformis	44.76	0
+Bacteroides uniformis	38.51	0
+Bacteroides uniformis	27.65	0
+Bacteroides uniformis	26.99	0
+Bacteroides uniformis	26.83	0
+Bacteroides uniformis	26.74	0
+Bacteroides uniformis	26.43	0
+Bacteroides uniformis	25.79	0
+Bacteroides uniformis	24.94	0
+Bacteroides uniformis	22.46	0
+Bacteroides uniformis	21.58	0
+Bacteroides uniformis	21.42	0
+Bacteroides uniformis	20.50	0
+Bacteroides uniformis	18.40	0
+Bacteroides uniformis	18.39	0
+Bacteroides uniformis	14.14	0
+Bacteroides uniformis	14.11	0
+Bacteroides uniformis	12.91	0
+Bacteroides uniformis	12.82	0
+Bacteroides uniformis	12.73	0
+Bacteroides uniformis	12.58	0
+Bacteroides uniformis	10.23	0
+Bacteroides uniformis	9.78	0
+Bacteroides uniformis	9.67	0
+Bacteroides uniformis	9.04	0
+Bacteroides uniformis	7.46	0
+Bacteroides uniformis	7.03	0
+Bacteroides uniformis	6.61	0
+Bacteroides uniformis	6.06	0
+Bacteroides uniformis	5.87	0
+Bacteroides uniformis	5.32	0
+Bacteroides uniformis	4.59	0
+Bacteroides uniformis	3.94	0
+Bacteroides uniformis	3.60	0
+Bacteroides uniformis	3.56	0
+Bacteroides vulgatus	100.00	1
+Bacteroides vulgatus	100.00	1
+Bacteroides vulgatus	99.97	1
+Bacteroides vulgatus	99.87	1
+Bacteroides vulgatus	99.77	1
+Bacteroides vulgatus	99.24	1
+Bacteroides vulgatus	99.18	1
+Bacteroides vulgatus	98.84	1
+Bacteroides vulgatus	83.61	2
+Bacteroides vulgatus	73.54	0
+Bacteroides vulgatus	72.75	0
+Bacteroides vulgatus	61.22	0
+Bacteroides vulgatus	61.06	0
+Bacteroides vulgatus	58.88	0
+Bacteroides vulgatus	58.83	0
+Bacteroides vulgatus	58.58	0
+Bacteroides vulgatus	48.74	0
+Bacteroides vulgatus	45.98	0
+Bacteroides vulgatus	45.89	0
+Bacteroides vulgatus	45.86	0
+Bacteroides vulgatus	45.70	0
+Bacteroides vulgatus	45.66	0
+Bacteroides vulgatus	45.64	0
+Bacteroides vulgatus	45.62	0
+Bacteroides vulgatus	44.27	0
+Bacteroides vulgatus	44.05	0
+Bacteroides vulgatus	43.60	0
+Bacteroides vulgatus	43.38	0
+Bacteroides vulgatus	43.33	0
+Bacteroides vulgatus	43.26	0
+Bacteroides vulgatus	42.36	0
+Bacteroides vulgatus	39.09	0
+Bacteroides vulgatus	38.88	0
+Bacteroides vulgatus	38.87	0
+Bacteroides vulgatus	37.94	0
+Bacteroides vulgatus	37.73	0
+Bacteroides vulgatus	37.49	0
+Bacteroides vulgatus	36.78	0
+Bacteroides vulgatus	34.66	0
+Bacteroides vulgatus	34.65	0
+Bacteroides vulgatus	34.59	0
+Bacteroides vulgatus	32.65	0
+Bacteroides vulgatus	32.51	0
+Bacteroides vulgatus	26.93	0
+Bacteroides vulgatus	26.00	0
+Bacteroides vulgatus	25.76	0
+Bacteroides vulgatus	25.72	0
+Bacteroides vulgatus	25.64	0
+Bacteroides vulgatus	25.63	0
+Bacteroides vulgatus	25.63	0
+Bacteroides vulgatus	25.12	0
+Bacteroides vulgatus	23.45	0
+Bacteroides vulgatus	23.40	0
+Bacteroides vulgatus	23.36	0
+Bacteroides vulgatus	23.36	0
+Bacteroides vulgatus	23.27	0
+Bacteroides vulgatus	23.26	0
+Bacteroides vulgatus	20.37	0
+Bacteroides vulgatus	16.17	0
+Bacteroides vulgatus	14.71	0
+Bacteroides vulgatus	14.15	0
+Bacteroides vulgatus	14.12	0
+Bacteroides vulgatus	14.06	0
+Bacteroides vulgatus	14.06	0
+Bacteroides vulgatus	14.05	0
+Bacteroides vulgatus	8.23	0
+Bacteroides vulgatus	2.84	0
+Bacteroides vulgatus	2.82	0
+Bacteroides vulgatus	2.55	0
+Bacteroides vulgatus	2.35	0
+Bacteroides vulgatus	2.13	0
+Bacteroides vulgatus	2.05	0
+Bacteroides vulgatus	2.05	0
+Bacteroides vulgatus	1.99	0
+Bacteroides vulgatus	1.86	0
+Bacteroides vulgatus	1.86	0
+Barnesiella intestinihominis	100.00	1
+Barnesiella intestinihominis	100.00	1
+Barnesiella intestinihominis	100.00	1
+Barnesiella intestinihominis	99.86	1
+Barnesiella intestinihominis	99.83	1
+Barnesiella intestinihominis	79.16	0
+Barnesiella intestinihominis	78.56	0
+Barnesiella intestinihominis	78.56	0
+Barnesiella intestinihominis	18.78	0
+Barnesiella intestinihominis	17.80	0
+Barnesiella intestinihominis	14.24	0
+Barnesiella intestinihominis	13.47	0
+Barnesiella intestinihominis	13.36	0
+Barnesiella intestinihominis	12.41	0
+Barnesiella intestinihominis	12.19	0
+Barnesiella intestinihominis	12.14	0
+Barnesiella intestinihominis	11.84	0
+Barnesiella intestinihominis	10.78	0
+Barnesiella intestinihominis	10.57	0
+Barnesiella intestinihominis	10.55	0
+Barnesiella intestinihominis	10.13	0
+Barnesiella intestinihominis	10.06	0
+Barnesiella intestinihominis	8.67	0
+Barnesiella intestinihominis	8.45	0
+Barnesiella intestinihominis	8.43	0
+Barnesiella intestinihominis	8.04	0
+Barnesiella intestinihominis	7.97	0
+Barnesiella intestinihominis	7.97	0
+Barnesiella intestinihominis	7.85	0
+Barnesiella intestinihominis	7.71	2
+Barnesiella intestinihominis	7.63	0
+Barnesiella intestinihominis	7.61	0
+Barnesiella intestinihominis	7.37	0
+Barnesiella intestinihominis	7.28	0
+Barnesiella intestinihominis	7.14	0
+Barnesiella intestinihominis	7.14	0
+Barnesiella intestinihominis	7.01	0
+Barnesiella intestinihominis	5.61	0
+Barnesiella intestinihominis	5.54	0
+Barnesiella intestinihominis	5.51	0
+Barnesiella intestinihominis	5.49	0
+Barnesiella intestinihominis	5.03	0
+Barnesiella intestinihominis	5.01	0
+Barnesiella intestinihominis	4.99	0
+Barnesiella intestinihominis	4.96	0
+Coprococcus comes	99.57	1
+Eubacterium rectale	99.52	1
+Eubacterium rectale	26.26	0
+Eubacterium rectale	14.49	0
+Eubacterium rectale	13.74	0
+Eubacterium rectale	12.24	0
+Eubacterium rectale	12.03	0
+Eubacterium rectale	9.38	2
+Eubacterium rectale	7.58	0
+Eubacterium rectale	7.28	0
+Eubacterium rectale	6.86	0
+Eubacterium rectale	5.44	0
+Eubacterium rectale	4.74	0
+Eubacterium rectale	3.81	0
+Eubacterium rectale	3.57	0
+Eubacterium rectale	3.18	0
+Faecalibacterium prausnitzii L2	99.61	1
+Faecalibacterium prausnitzii L2	13.92	0
+Faecalibacterium prausnitzii L2	11.10	0
+Faecalibacterium prausnitzii L2	10.78	0
+Faecalibacterium prausnitzii L2	5.03	0
+Faecalibacterium prausnitzii L2	4.54	0
+Faecalibacterium prausnitzii L2	4.42	0
+Faecalibacterium prausnitzii L2	3.92	2
+Faecalibacterium prausnitzii L2	3.83	0
+Faecalibacterium prausnitzii L2	3.64	2
+Parabacteroides merdae	100.00	1
+Parabacteroides merdae	99.97	1
+Parabacteroides merdae	99.95	1
+Parabacteroides merdae	99.95	1
+Parabacteroides merdae	99.85	1
+Parabacteroides merdae	99.82	1
+Parabacteroides merdae	99.55	1
+Parabacteroides merdae	89.36	0
+Parabacteroides merdae	89.06	0
+Parabacteroides merdae	88.36	0
+Parabacteroides merdae	87.01	0
+Parabacteroides merdae	86.80	0
+Parabacteroides merdae	86.33	0
+Parabacteroides merdae	24.58	0
+Parabacteroides merdae	24.36	0
+Parabacteroides merdae	18.99	0
+Parabacteroides merdae	8.37	0
+Parabacteroides merdae	8.26	0
+Parabacteroides merdae	7.93	0
+Parabacteroides merdae	7.90	0
+Parabacteroides merdae	7.88	0
+Parabacteroides merdae	7.87	0
+Parabacteroides merdae	7.87	0
+Parabacteroides merdae	7.80	0
+Parabacteroides merdae	6.21	0
+Parabacteroides merdae	4.56	0
+Parabacteroides merdae	4.54	0
+Parabacteroides merdae	4.34	0
+Parabacteroides sp. D13	99.95	1
+Parabacteroides sp. D13	99.92	1
+Parabacteroides sp. D13	99.92	1
+Parabacteroides sp. D13	21.79	2
+Parabacteroides sp. D13	21.60	2
+Parabacteroides sp. D13	5.13	0
+Parabacteroides sp. D13	5.07	0
+Parabacteroides sp. D13	4.22	0
+Parabacteroides sp. D13	4.20	0
+Parabacteroides sp. D13	3.74	0
+Parabacteroides sp. D13	3.68	0
+Parabacteroides sp. D13	3.12	0
+Parabacteroides sp. D13	3.04	0
+Parabacteroides sp. D13	3.03	0
+Parabacteroides sp. D13	2.99	0
+Parabacteroides sp. D13	2.97	0
+Parabacteroides sp. D13	2.83	0
+Parabacteroides sp. D13	2.07	0
+Parabacteroides sp. D13	2.01	0
+Parabacteroides sp. D13	1.91	0
+Parabacteroides sp. D13	1.59	0
+Prevotella copri	99.96	1
+Prevotella copri	27.92	0
+Prevotella copri	14.86	0
+Ruminococcus torques ATCC	100.00	1
+Ruminococcus torques ATCC	81.71	0
+Ruminococcus torques ATCC	80.54	2
+Ruminococcus torques ATCC	72.44	0
+Ruminococcus torques ATCC	67.35	0
+Ruminococcus torques ATCC	63.07	0
+Ruminococcus torques ATCC	62.57	0
+Ruminococcus torques ATCC	60.48	0
+Ruminococcus torques ATCC	55.72	0
+Ruminococcus torques ATCC	55.22	0
+Ruminococcus torques ATCC	53.44	0
+Ruminococcus torques ATCC	52.33	0
+Ruminococcus torques ATCC	49.23	0
+Ruminococcus torques ATCC	45.42	0
+Ruminococcus torques ATCC	45.21	0
+Ruminococcus torques ATCC	44.91	0
+Ruminococcus torques ATCC	37.91	0
+Ruminococcus torques ATCC	34.82	0
+Ruminococcus torques ATCC	25.87	0
+Ruminococcus torques ATCC	23.53	0
+Ruminococcus torques ATCC	21.99	0
