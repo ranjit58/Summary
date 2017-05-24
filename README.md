@@ -11,7 +11,7 @@ Most of the code is hosted on github account [ranjit58](https://github.com/ranji
 > - Feature generation - [mgSNP pipeline](https://github.com/ranjit58/mgSNP)
 > - R code for feature processing and visualization - [snpdis2.R](https://github.com/ranjit58/Summary/blob/master/forensic/snpdis2.R)
 > - R package CARET used for machine learning. After trying various ML models we found logistic regression works best for our set of features. [Final Model](https://github.com/ranjit58/Summary/blob/master/forensic/Classifier/transplant_model_final.R)
-> - [Training](https://github.com/ranjit58/Summary/blob/master/forensic/xHMP93_21.png) | [Test](https://github.com/ranjit58/Summary/blob/master/forensic/xTRANS93_21.png) | [Performance](https://github.com/ranjit58/Summary/blob/master/forensic/Classifier/accuracy.png)
+> - Graphics from [Training](https://github.com/ranjit58/Summary/blob/master/forensic/xHMP93_21.png) | [Test](https://github.com/ranjit58/Summary/blob/master/forensic/xTRANS93_21.png) | [Performance](https://github.com/ranjit58/Summary/blob/master/forensic/Classifier/accuracy.png)
 </P>
 
 - **Compare Kits** : A visual comparison and of two methods (RNAseq) measuring same biological samples
@@ -20,7 +20,7 @@ Most of the code is hosted on github account [ranjit58](https://github.com/ranji
 > - Data analysis and visualization - https://rawgit.com/ranjit58/Summary/master/brad/kit_analysis.html
 
 
--  SNP variation analysis and visualisation - From RYGB paper
+- **SNP variation analysis and visualisation** - From RYGB paper
  https://rawgit.com/ranjit58/Summary/master/RYGB/RYGB-MGSNP2.html
 <br>Using **R and ggplot2**
 
